@@ -1,0 +1,1 @@
+// Use a library like crypto-js to encrypt and decrypt messages.
