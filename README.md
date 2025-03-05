@@ -31,9 +31,11 @@ Scalable Architecture: Built to accommodate growing user base and high traffic.
 📦 Installation
 Clone the Repository:
 
-bash
+
 git clone https://github.com/Zambagarrah/Chat-Application.git
+
 cd Chat-Application
+
 Set Up the Database:
 
 Import the chat_app.sql file into your MySQL database.
@@ -59,6 +61,6 @@ For any inquiries, feel free to reach out:
 
 Name: Zambagarrah
 
-Email: your-email@example.com
+Email: zablonombiri001@gmail.com
 
 Join the conversation and explore the power of seamless communication with our Real-Time Chat Application!
