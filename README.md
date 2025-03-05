@@ -30,11 +30,10 @@ Scalable Architecture: Built to accommodate growing user base and high traffic.
 
 📦 Installation
 Clone the Repository:
-
-
-#git clone https://github.com/Zambagarrah/Chat-Application.git
-
-#cd Chat-Application
+```
+git clone https://github.com/Zambagarrah/Chat-Application.git
+cd Chat-Application
+```
 
 Set Up the Database:
 
