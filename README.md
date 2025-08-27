@@ -13,7 +13,7 @@ Welcome to the **Real-Time Chat Application!** This project showcases a robust a
 - Backend: PHP
 - Database: MySQL
 
-🌟 Highlights
+### 🌟 Highlights
 Efficient Communication: Real-time updates powered by AJAX for a smooth messaging experience.
 
 User-Friendly Design: Responsive and interactive UI that adapts to different devices.
