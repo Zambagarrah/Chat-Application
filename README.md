@@ -29,7 +29,6 @@ cd Chat-Application
 #### Set Up the Database:
 
 - Import the chat_app.sql file into your MySQL database.
-
 - Update the database configuration in the config.php file.
 
 #### Start the Server:
@@ -43,7 +42,7 @@ Open your browser and navigate to the application URL to start chatting!
 ### 🤝 Contributing
 We welcome contributions! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
-📄 License
+### 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 📧 Contact
