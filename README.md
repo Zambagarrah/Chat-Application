@@ -14,13 +14,10 @@ Welcome to the **Real-Time Chat Application!** This project showcases a robust a
 - Database: MySQL
 
 ### 🌟 Highlights
-Efficient Communication: Real-time updates powered by AJAX for a smooth messaging experience.
-
-User-Friendly Design: Responsive and interactive UI that adapts to different devices.
-
-Security First: Implementation of best practices for user authentication and data protection.
-
-Scalable Architecture: Built to accommodate growing user base and high traffic.
+- Efficient Communication: Real-time updates powered by AJAX for a smooth messaging experience.
+- User-Friendly Design: Responsive and interactive UI that adapts to different devices.
+- Security First: Implementation of best practices for user authentication and data protection.
+- Scalable Architecture: Built to accommodate growing user base and high traffic.
 
 ### 📦 Installation
 #### Clone the Repository:
