@@ -40,7 +40,7 @@ cd Chat-Application
 
 Open your browser and navigate to the application URL to start chatting!
 
-🤝 Contributing
+### 🤝 Contributing
 We welcome contributions! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
 📄 License
