@@ -8,12 +8,10 @@ Welcome to the **Real-Time Chat Application!** This project showcases a robust a
 - Scalability: Designed to handle multiple users and conversations effortlessly.
 - Secure Data Handling: Robust security measures to protect user data and ensure confidentiality.
 
-🛠️ Technologies Used
-Frontend: HTML, CSS, JavaScript
-
-Backend: PHP
-
-Database: MySQL
+### 🛠️ Technologies Used
+> Frontend: HTML, CSS, JavaScript
+> Backend: PHP
+> Database: MySQL
 
 🌟 Highlights
 Efficient Communication: Real-time updates powered by AJAX for a smooth messaging experience.
