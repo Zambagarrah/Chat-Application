@@ -36,7 +36,7 @@ cd Chat-Application
 
 - Deploy the application on a local or remote server with PHP support.
 
-Enjoy:
+#### Enjoy:
 
 Open your browser and navigate to the application URL to start chatting!
 
