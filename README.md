@@ -45,7 +45,7 @@ We welcome contributions! If you'd like to contribute, please fork the repositor
 ### 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-📧 Contact
+### 📧 Contact
 For any inquiries, feel free to reach out:
 
 Name: Zambagarrah
