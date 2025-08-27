@@ -22,22 +22,22 @@ Security First: Implementation of best practices for user authentication and dat
 
 Scalable Architecture: Built to accommodate growing user base and high traffic.
 
-📦 Installation
-Clone the Repository:
+### 📦 Installation
+#### Clone the Repository:
 ```
 git clone https://github.com/Zambagarrah/Chat-Application.git
 cd Chat-Application
 ```
 
-Set Up the Database:
+#### Set Up the Database:
 
-Import the chat_app.sql file into your MySQL database.
+- Import the chat_app.sql file into your MySQL database.
 
-Update the database configuration in the config.php file.
+- Update the database configuration in the config.php file.
 
-Start the Server:
+#### Start the Server:
 
-Deploy the application on a local or remote server with PHP support.
+- Deploy the application on a local or remote server with PHP support.
 
 Enjoy:
 
