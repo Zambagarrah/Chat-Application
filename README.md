@@ -1,7 +1,7 @@
 ## Real-Time Chat Application
-Welcome to the Real-Time Chat Application! This project showcases a robust and interactive chat platform built with PHP, HTML, CSS, and JavaScript. Dive into the world of seamless communication and explore the features that make this application stand out.
+Welcome to the **Real-Time Chat Application!** This project showcases a robust and interactive chat platform built with **PHP, HTML, CSS, and JavaScript**. Dive into the world of seamless communication and explore the features that make this application stand out.
 
-🚀 Features
+### 🚀 Features
 Real-Time Messaging: Enjoy instant message exchange with real-time updates.
 
 User Authentication: Secure login and registration system to ensure user privacy.
